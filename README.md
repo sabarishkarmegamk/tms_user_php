@@ -7,6 +7,7 @@
 ![u dash](https://user-images.githubusercontent.com/128790623/233412345-8cbc7b1b-c543-4792-9ecb-5b3cb9587982.png)
 ![edit](https://user-images.githubusercontent.com/128790623/233412785-309780aa-88d3-40a6-a8b5-bfbe6f1a8cb8.png)
 ![button](https://user-images.githubusercontent.com/128790623/233413081-0746af80-3189-4b9c-9398-b5bce34908d2.png)
+admin
 username:admin password:123
 
 
